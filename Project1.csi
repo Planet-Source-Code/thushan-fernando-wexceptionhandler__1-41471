@@ -1,0 +1,16 @@
+[History]
+B0=Project1/wExceptionHandler
+B1=Project1/wExceptionHandler/ExceptionHandler
+B2=Project1/wExceptionHandler/InstallExceptionHandler
+B3=Project1/wExceptionHandler/HandleTheException
+B4=Project1/frmMain/Form_Load
+B5=Project1/frmMain/cmdCrash_Click
+B6=Project1/frmMain/cmdClose_Click
+B7=Project1/frmMain/cmdInstall_Click
+B8=Project1/frmMain/cmdUnInstall_Click
+B9=Project1/frmMain/Form_Unload
+B10=Project1/frmException/chkAutoStart_Click
+B11=Project1/frmException/cmdContinue_Click
+B12=Project1/frmException/cmdExit_Click
+B13=Project1/frmException/Command1_Click
+B14=Project1/frmException/bContinue
